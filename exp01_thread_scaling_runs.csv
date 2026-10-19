@@ -1,0 +1,37 @@
+run,date,conditions,threads,mean_s,stdev_s
+1,2026-10-15,"first run, background apps open (exact state not recorded)",1,0.3518,
+1,2026-10-15,"first run, background apps open (exact state not recorded)",2,0.1843,
+1,2026-10-15,"first run, background apps open (exact state not recorded)",3,0.1293,
+1,2026-10-15,"first run, background apps open (exact state not recorded)",4,0.0966,
+1,2026-10-15,"first run, background apps open (exact state not recorded)",5,0.0779,
+1,2026-10-15,"first run, background apps open (exact state not recorded)",6,0.0727,
+1,2026-10-15,"first run, background apps open (exact state not recorded)",7,0.0700,
+1,2026-10-15,"first run, background apps open (exact state not recorded)",8,0.0655,
+1,2026-10-15,"first run, background apps open (exact state not recorded)",9,0.0648,
+1,2026-10-15,"first run, background apps open (exact state not recorded)",10,0.0622,
+1,2026-10-15,"first run, background apps open (exact state not recorded)",11,0.0633,
+1,2026-10-15,"first run, background apps open (exact state not recorded)",12,0.0643,
+2,2026-10-16,"apps closed; Activity Monitor screenshots taken during run (notebook in background); BTLEServer at 100% CPU",1,0.4986032833927311,0.01144385376770872
+2,2026-10-16,"apps closed; Activity Monitor screenshots taken during run (notebook in background); BTLEServer at 100% CPU",2,0.24785553743131458,0.00036452910568402543
+2,2026-10-16,"apps closed; Activity Monitor screenshots taken during run (notebook in background); BTLEServer at 100% CPU",3,0.16696019598748535,0.0009104708732005325
+2,2026-10-16,"apps closed; Activity Monitor screenshots taken during run (notebook in background); BTLEServer at 100% CPU",4,0.12356804978335276,0.00013972383383003905
+2,2026-10-16,"apps closed; Activity Monitor screenshots taken during run (notebook in background); BTLEServer at 100% CPU",5,0.09906655021477491,0.000181062379544272
+2,2026-10-16,"apps closed; Activity Monitor screenshots taken during run (notebook in background); BTLEServer at 100% CPU",6,0.08352160012582317,0.0019107645689550217
+2,2026-10-16,"apps closed; Activity Monitor screenshots taken during run (notebook in background); BTLEServer at 100% CPU",7,0.08204760011285543,0.002693737863855192
+2,2026-10-16,"apps closed; Activity Monitor screenshots taken during run (notebook in background); BTLEServer at 100% CPU",8,0.0776481249020435,0.005028624453714252
+2,2026-10-16,"apps closed; Activity Monitor screenshots taken during run (notebook in background); BTLEServer at 100% CPU",9,0.07474163759034128,0.002420321164860573
+2,2026-10-16,"apps closed; Activity Monitor screenshots taken during run (notebook in background); BTLEServer at 100% CPU",10,0.07159614568809047,0.0016448635531496503
+2,2026-10-16,"apps closed; Activity Monitor screenshots taken during run (notebook in background); BTLEServer at 100% CPU",11,0.07234590398147703,0.00579129650387233
+2,2026-10-16,"apps closed; Activity Monitor screenshots taken during run (notebook in background); BTLEServer at 100% CPU",12,0.07103332508122548,0.0011982346280262812
+3,2026-10-16,"FILL IN: restarted? BTLEServer gone? plugged in? notebook in front?",1,0.34622203740291296,0.0035495736426175064
+3,2026-10-16,"FILL IN: restarted? BTLEServer gone? plugged in? notebook in front?",2,0.1855250042048283,0.0049592959991568535
+3,2026-10-16,"FILL IN: restarted? BTLEServer gone? plugged in? notebook in front?",3,0.12833911252673716,0.00015088905611706276
+3,2026-10-16,"FILL IN: restarted? BTLEServer gone? plugged in? notebook in front?",4,0.09571718309307471,5.284500063471755e-05
+3,2026-10-16,"FILL IN: restarted? BTLEServer gone? plugged in? notebook in front?",5,0.07765606690663844,0.00013713408181027635
+3,2026-10-16,"FILL IN: restarted? BTLEServer gone? plugged in? notebook in front?",6,0.06507017081603408,8.128803322704564e-05
+3,2026-10-16,"FILL IN: restarted? BTLEServer gone? plugged in? notebook in front?",7,0.06333622101228684,0.002078533163307301
+3,2026-10-16,"FILL IN: restarted? BTLEServer gone? plugged in? notebook in front?",8,0.061746833298821004,0.0005683716761534094
+3,2026-10-16,"FILL IN: restarted? BTLEServer gone? plugged in? notebook in front?",9,0.06461422927677632,0.004160282903397376
+3,2026-10-16,"FILL IN: restarted? BTLEServer gone? plugged in? notebook in front?",10,0.06426866672700271,0.003017064064838941
+3,2026-10-16,"FILL IN: restarted? BTLEServer gone? plugged in? notebook in front?",11,0.06210178348701447,0.0035344106596448435
+3,2026-10-16,"FILL IN: restarted? BTLEServer gone? plugged in? notebook in front?",12,0.06471517069730907,0.0031910073695687693
