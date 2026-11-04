@@ -25,13 +25,13 @@ def main():
     arc = load_dataset("allenai/ai2_arc", "ARC-Challenge", split="test")
     rng = random.Random(SEED)
 
-    # Only questions labelled exactly A-D, so every prompt has the same four options.
+    
     pool = [item for item in arc if item["choices"]["label"] == KEYS]
 
     chosen = []
     for key in KEYS:
         chosen += rng.sample([item for item in pool if item["answerKey"] == key], PER_KEY)
-    # Mix the keys so smaller batches don't each hold a single answer letter.
+    
     rng.shuffle(chosen)
 
     data = {
