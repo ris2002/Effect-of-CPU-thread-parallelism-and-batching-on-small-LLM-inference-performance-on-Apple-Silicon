@@ -1,15 +1,15 @@
-"""Pick 32 ARC-Challenge questions with an equal share of answer keys (8 each of A, B, C, D).
+"""Pick 64 ARC-Challenge questions with an equal share of answer keys (16 each of A, B, C, D).
 
-Run once to write prompts_arc32_balanced.json, which the experiment notebook loads.
+Run once to write prompts_arc64_balanced.json, which the experiment notebook loads.
 """
 import json
 import random
 
 from datasets import load_dataset
 
-OUTPUT_FILE = "prompts_arc32_balanced.json"
+OUTPUT_FILE = "prompts_arc64_balanced.json"
 KEYS = ["A", "B", "C", "D"]
-PER_KEY = 8
+PER_KEY = 16
 SEED = 42
 
 
