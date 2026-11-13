@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local Windows setup (uv, Python, caches, Hugging Face models)
+tools/
+.uvc/
+.hf/
+torch_mkl/
+.vscode/
